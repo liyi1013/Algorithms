@@ -1,6 +1,29 @@
 # vs c++ git ignore file
 # liyi 2016-01-29
 
-/Leetcode_oj
-!*.cpp
-!.py
+*.suo
+*.sdf
+*.sln
+
+*.exe
+*.log
+*.lik
+
+*.vcxproj
+*.filters
+*.rej
+
+*.o
+*.obj
+
+*.dev
+*.layout
+*.tlog
+*.win
+*.pdb
+*.idb
+*.ilk
+
+*.project
+*.cproject
+*.prefs
