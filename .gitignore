@@ -1,0 +1,13 @@
+# vs c++ git ignore file
+# liyi 2016-01-29
+
+*.suo
+*.sdf
+*.sln
+
+/coin_change/Debug
+
+*.vcxproj
+*.filters
+*.rej
+/coin_change/coin_change/Debug
